@@ -6,6 +6,11 @@ Postgres  RDBMS Systems and MongoDB to analyse Bixi Montreal data
 * Topic: Bixi- Movements history
 * Size: 1.15GB ( 23 csv files)
 * Records: 22.2 million record
+* **Team Members:**
+  * Ying Fang 26897657
+  * Khalil Nijaoui 40092653
+  * Tung Leu 40025151
+  * Arshia Hamidi 40068250
 ## Description: 
 The dataset contains the details of the travels made via the BIXI
 Montreal service bike network in CSV format. Such information
